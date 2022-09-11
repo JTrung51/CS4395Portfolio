@@ -34,5 +34,6 @@ Python seens really strong in term of text processing
 ### Learning
 In this assignment, it gave me a refresher on objects, dict, input from keyboard and files. It was quite nice re-touching on basics of python. Something I need to be better on is the error checking however.
 
-
+## PortfolioAssignment2NLTK.ipynb-JTT190006.pdf
+[click here for pdf](PortfolioAssignment2NLTK.ipynb-JTT190006.pdf)
 

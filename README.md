@@ -22,12 +22,12 @@ This would start the program
 ### Option on Python
 Python seens really strong in term of text processing
 
-###Strengths
+##Strengths
 - Many open library for text processes like NLTK, re, etc
 - variables are very flexible, so little type error will happen
 - Easy to learn
 
-###Weakness
+##Weakness
 - Structure is difficult to read sometimes, with tabs, or I'm just used to brackets
 - Speed is a issue with python being a interpreted lanaguege
 
@@ -37,3 +37,9 @@ In this assignment, it gave me a refresher on objects, dict, input from keyboard
 ## PortfolioAssignment2NLTK.ipynb-JTT190006.pdf
 [click here for pdf](PortfolioAssignment2NLTK.ipynb-JTT190006.pdf)
 
+## WordNet
+In this assignment, we explore the possiblility of WordNet fron NLTK. Some key concepts, inlcuded in WordNet are Hierarchy, hypernyms, hyponyms, meronyms, SentiWordNet, and collocations
+
+[click here for pdf](Portfolio-WordNet-JTT190006.pdf)
+
+[click here for ipynb file](Portfolio_WordNet_ipynb_JTT190006.ipynb)

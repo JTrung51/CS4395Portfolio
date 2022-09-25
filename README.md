@@ -43,3 +43,17 @@ In this assignment, we explore the possiblility of WordNet fron NLTK. Some key c
 [click here for pdf](Portfolio-WordNet-JTT190006.pdf)
 
 [click here for ipynb file](Portfolio_WordNet_ipynb_JTT190006.ipynb)
+
+## Word Guess Game
+### Description
+This program takes data from inputted file with txt, takes the 50 most common words that are not stop words and uses it as a words for a sorta like hangman game
+
+[click here for program](WordGuessGame_JTT190006.py)
+
+### How to run it
+Open the command shell, and type 
+
+python WordGuessGame_JTT190006.py'filename'
+
+This would start the program and you can start the game
+

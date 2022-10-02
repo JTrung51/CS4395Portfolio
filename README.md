@@ -57,3 +57,7 @@ python WordGuessGame_JTT190006.py'filename'
 
 This would start the program and you can start the game
 
+## Ngrams
+[click here for part one of Ngram](Ngramspt1)
+[click here for part two of Ngram](Ngramspt2)
+[click here for pdf of NGram](Portfolio Chapter 8 Ngrams)

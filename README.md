@@ -61,3 +61,7 @@ This would start the program and you can start the game
 [click here for part one of Ngram](Ngramspt1)
 [click here for part two of Ngram](Ngramspt2)
 [click here for pdf of NGram](Portfolio Chapter 8 Ngrams)
+
+## Web Scraping
+[click here for script](Web Scraping Portfolio/Webscraping.py)
+[click here for pdf doc](Web Scraping Portfolio/Knowledge Base Documentation) 

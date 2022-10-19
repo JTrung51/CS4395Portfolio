@@ -58,7 +58,7 @@ python WordGuessGame_JTT190006.py'filename'
 This would start the program and you can start the game
 
 ## Sentance Parsing
-[click here for pdf](Portfolio Assignment Sentence Parsing.pdf)
+[click here for pdf](https://github.com/JTrung51/CS4395Portfolio/blob/main/Portfolio%20Assignment%20Sentence%20Parsing.pdf)
 
 ## Ngrams
 [click here for part one of Ngram](Ngramspt1)

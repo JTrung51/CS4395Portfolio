@@ -58,7 +58,7 @@ python WordGuessGame_JTT190006.py'filename'
 This would start the program and you can start the game
 
 ## Sentance Parsing
-[click here for pdf](Portfolio Assignment Sentence Parsing.py)
+[click here for pdf](Portfolio Assignment Sentence Parsing.pdf)
 
 ## Ngrams
 [click here for part one of Ngram](Ngramspt1)
@@ -67,5 +67,6 @@ This would start the program and you can start the game
 
 ## Web Scraping
 [click here for script](https://github.com/JTrung51/CS4395Portfolio/blob/main/Web%20Scraping%20Portfolio/Webscraping.py)
+
 [click here for pdf doc](https://github.com/JTrung51/CS4395Portfolio/blob/main/Web%20Scraping%20Portfolio/Knowledge%20Base%20Documentation.pdf)
 

@@ -70,3 +70,7 @@ This would start the program and you can start the game
 
 [click here for pdf doc](https://github.com/JTrung51/CS4395Portfolio/blob/main/Web%20Scraping%20Portfolio/Knowledge%20Base%20Documentation.pdf)
 
+
+## Federalist Paper
+[click here for script](Portfolio_Federalist_Paper.ipynb)
+[click here for pdf(Portfolio-FederalistPaper.pdf)

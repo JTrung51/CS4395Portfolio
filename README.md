@@ -65,3 +65,7 @@ This would start the program and you can start the game
 ## Web Scraping
 [click here for script](Web Scraping Portfolio/Webscraping.py)
 [click here for pdf doc](Web Scraping Portfolio/Knowledge Base Documentation) 
+
+## Federalist Paper
+[click here for script](Portfolio_Federalist_Paper.ipynb)
+[click here for pdf(Portfolio-FederalistPaper.pdf)

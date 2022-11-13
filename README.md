@@ -57,15 +57,16 @@ python WordGuessGame_JTT190006.py'filename'
 
 This would start the program and you can start the game
 
+## Sentance Parsing
+[click here for pdf](https://github.com/JTrung51/CS4395Portfolio/blob/main/Portfolio%20Assignment%20Sentence%20Parsing.pdf)
+
 ## Ngrams
 [click here for part one of Ngram](Ngramspt1)
 [click here for part two of Ngram](Ngramspt2)
 [click here for pdf of NGram](Portfolio Chapter 8 Ngrams)
 
 ## Web Scraping
-[click here for script](Web Scraping Portfolio/Webscraping.py)
-[click here for pdf doc](Web Scraping Portfolio/Knowledge Base Documentation) 
+[click here for script](https://github.com/JTrung51/CS4395Portfolio/blob/main/Web%20Scraping%20Portfolio/Webscraping.py)
 
-## Federalist Paper
-[click here for script](Portfolio_Federalist_Paper.ipynb)
-[click here for pdf(Portfolio-FederalistPaper.pdf)
+[click here for pdf doc](https://github.com/JTrung51/CS4395Portfolio/blob/main/Web%20Scraping%20Portfolio/Knowledge%20Base%20Documentation.pdf)
+

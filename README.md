@@ -70,3 +70,10 @@ This would start the program and you can start the game
 
 [click here for pdf doc](https://github.com/JTrung51/CS4395Portfolio/blob/main/Web%20Scraping%20Portfolio/Knowledge%20Base%20Documentation.pdf)
 
+## Chatbot Report
+[click here](Chatbot Report.pdf)
+
+## Portfolio Text Classification
+[click here](Portfolio Text Classification.pdf)
+
+

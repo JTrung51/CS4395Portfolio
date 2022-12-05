@@ -1,0 +1,9 @@
+Would you care to hear another {0} joke?
+Do you want to hear a joke about {0} again?
+A second joke about {0} would you like to hear?
+Would you like to hear another joke about {0}?
+How about another {0} joke?
+Would another {0} joke cheer you up?
+Would another joke about {0} might make you smile
+Would you like one more joke about {0}?
+Would you want to hear a joke about {0} once more?

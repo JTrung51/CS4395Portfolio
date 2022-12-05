@@ -1,0 +1,15 @@
+Would you like to hear a joke, {0}?
+{0}, do you want to hear a joke?
+Do you want to hear a joke, {0}?
+{0}, would you like to hear a joke?
+Would you like to hear a joke, {0}?
+Do you want to hear a joke, {0}?
+{0}, would you like to laugh?
+Are you up for some humor, {0}?
+{0}, would you like to hear a joke?
+Do you want to hear a joke, {0}?
+Are you interested in a joke?
+Would you like to laugh?
+A joke, would you like to hear it?
+Do you want to hear a joke?
+Are you interested in a joke?

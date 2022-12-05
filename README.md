@@ -76,4 +76,7 @@ This would start the program and you can start the game
 ## Portfolio Text Classification
 [click here](Portfolio Text Classification.pdf)
 
+## Federalist Paper
+[click here for script](Portfolio_Federalist_Paper.ipynb)
+[click here for pdf(Portfolio-FederalistPaper.pdf)
 
